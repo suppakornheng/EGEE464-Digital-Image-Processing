@@ -1,0 +1,16 @@
+D G S P
+1.D	
+2.G	
+3.S	
+4.P	
+5.DG	
+6.DS	
+7.DP	
+8.GS	
+9.GP	
+10.SP	
+11.DGS	
+12.DGP	
+13.GSP	
+14.DSP	
+15.DGSP	

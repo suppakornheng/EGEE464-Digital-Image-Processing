@@ -1,0 +1,19 @@
+1.area under probability density function(PDF)
+พื้นที่ใต้กราฟ PDF คือความน่าจะเป็น หรือโอกาสที่เป็นไปได้
+ผลรวมของพื้นที่ใต้กราฟ PDF จึงเท่ากับ 1 เสมอ
+
+2.Mean vs Average vs Expectation
+
+Mean หรือมัชฌิม คือค่ากลาง (มัชฌิมแปลว่ากลาง)
+มีหลายชนิดเช่น Pythagorean means, Arithmetic mean (AM), Geometric mean (GM), Harmonic mean (HM), Weighted arithmetic mean, Truncated mean เป็นต้น
+โดยทั่วไป mean หมายถึงค่ากลางก็คือ (max+min)/2
+
+Average หรือที่รู้จักกันในชื่อ"ค่าเฉลี่ย" คือ Arithmetic mean (AM) หรือค่ามัชฌิมเลขคณิต
+
+Expectaion หรือ ค่าคาดหมาย คือ Weighted Arithmetic Mean หรือบางทีก็เรียกว่า Weigthed Average
+
+
+
+
+
+
